@@ -1,0 +1,323 @@
+.titleDescription{
+    color: rgba(7, 7, 7, 0.6);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px 80px;
+    
+}
+.title1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 10px 80px;
+    
+    
+    
+    
+}
+.banner .tulip{
+    width: 400px;
+    height: 500px;
+    /* flex-shrink: 0; */
+}
+
+.banner{
+
+    display: flex;
+    align-items: center;
+    padding: 0%;
+}
+
+.btn-primary{
+    color: #FFF;
+    border-radius: 8px;
+    border: 1px solid #000;
+    background: #E55473;
+    margin: 10px 80px;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+
+}
+.header{
+    width: 1320px;
+    height: 550px;
+    background: rgba(229, 84, 115, 0.10);
+    /* background-color: #E55473; */
+    padding: 0%;
+}
+.Flowers{
+    width: 1320px;
+    height: 550px;
+    background: #FFF;
+    padding: 0%;
+}
+.sectionTitle{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    margin: 120px 400px 10px;
+}
+.sectionDescription{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    line-height: 30px;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px 250px;
+}
+.flowerImage{
+    margin: 20px 300px;
+}
+.pink{
+    width: 200px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.pinkRed{
+    width: 200px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-left: 50px;
+}
+.yellow{
+    width: 200px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-left: 50px;
+}
+
+.pinkflower{
+    margin: 20px 250px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.offerBanner{
+    width: 1320px;
+    height: 550px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 0%;
+}  
+.bannerTitle{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 120px 200px 10px;
+}
+.otherColor{
+    color: #E55473;
+}
+.bannerDescription{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 10px 20%;
+}
+.btn-secondary{
+    color: #FFF;
+    border-radius: 8px;
+    border: 1px solid #000;
+    background: #E55473;
+    margin: 10px 42%;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    
+    
+}
+
+.offerBanner .tulip{
+    width: 400px;
+    height: 500px;
+    /* flex-shrink: 0; */
+}
+
+.offerBanner{
+    width: 1320px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    padding: 0%;
+}
+.socialmedia{
+    width: 1320px;
+    height: 550px;
+    /* display: flex; */
+    /* align-items: center; */
+    padding: 0%;
+}
+.mediaTitle{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+.mediaDescription{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px 20%;
+    
+}  
+.fourImage{
+
+
+    /* display: grid
+
+    grid-template-columns: .1fr .1fr .1fr; */
+
+    column-gap: 10px; 
+
+    display: flex;
+    margin: 10px 0px 10px 200px;
+    /* margin-top: 200px; */
+ }
+ .imgBacground{
+    width: 1320px;
+    height: 550px;
+    background: #FFF;
+    padding: 0%;
+
+ }
+ .Bacground{
+    /* width: 750px;
+    height: 350px; */
+    background-image: url("Rectangle\ 9.png");
+    /* background-position: center; */
+    margin: 50px 180px;
+    background-repeat: no-repeat;
+
+ }
+ 
+ .newTitle{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    justify-content: center;
+    padding-left: 300px;
+    padding-top: 30px;
+    /* text-align: center; */
+    
+    
+
+ }
+ .newDescription{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    justify-content: center;
+    padding-left: 350px;
+    padding-top: 0%;
+    /* text-align: center; */
+
+ }
+ .twobutton{
+    display: inline-block;
+
+
+ }
+ .btn-thirdly{
+    color: #FFF;
+    border-radius: 8px;
+    border: 1px solid #000;
+    background: #E55473;
+    /* position: static;
+    margin: 10px 100%;
+    display: flex; */
+    padding: 10px 43px;
+    /* align-items: flex;  */
+    gap: 10px;
+}
+ .form{
+    color: #27272799;
+    border-radius: 8px;
+    border: 1px solid #000;
+    background: #FFF;
+    /* position: static;
+    margin-left: 10%;
+    margin-bottom: 40%; */
+    /* margin: none 10% 50% 20%; */
+    /* display: inline-flex; */
+    padding: 10px 200px;
+    /* align-items: flex-start; */
+    gap: 10px;
+ }
+ .customarpoll{
+    width: 1320px;
+    height: 550px;
+    background:  rgba(229, 84, 115, 0.10);
+    background-image: url("61s.gif");
+    background-repeat: repeat-y;
+    /* background-image: url("2SIQ.gif"); */
+    margin-bottom: none;
+ }
+ .summary{
+    color: #299617;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    justify-content: center;
+    padding-left: 520px;
+    padding-top: 0%;
+ }
+ .box{
+    color: #0a0000;
+    width: 500px;
+    height: 100px;
+    border-radius: 8px;
+    border: 1px solid #000; 
+ }
+.footer{
+    width: 1320px;
+    height: 550px;
+    background: #111010;
+    /* background-color: #E55473; */
+    margin-top: none;
+}
+.footerTitle{
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 120px;
+    text-align: center;
+    padding-top: 10%;
+    
+}
+.footerDescription{
+    color: #FFFFFFE5;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px 20%;
+}
+.footerright{
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 20px 20%;
+}
